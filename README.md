@@ -4,8 +4,9 @@ GitHub is a popular platform used by developers to collaborate on projects, trac
 
 ## git clone
 The git clone command is used to create a copy of a repository on your local machine. This is useful when you want to work on a project without affecting the main repository. To use git clone, simply enter the command followed by the URL of the repository you want to clone.
-
-<code>git clone <repository URL>
+\
+<code>
+  git clone <repository URL>
 </code>
   
   git add
