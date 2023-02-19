@@ -82,7 +82,23 @@ git log
 ```
 
 
-These are the top 10 GitHub commands every beginner needs to know. By mastering these commands, you'll be well on your way to becoming a proficient GitHub user. Happy coding!
+These are the top 10 GitHub commands every beginner needs to know, alltogether:
+```
+git clone <repository URL>
+git add <filename>
+git commit -m "commit message"
+git push
+git pull
+git branch <branchname>
+git checkout <branchname>
+git merge <branchname>
+git status
+git log
+
+```
+By mastering these commands, you'll be well on your way to becoming a proficient GitHub user. Happy coding!
+
+
 
 
 
