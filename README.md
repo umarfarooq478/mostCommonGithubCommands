@@ -4,17 +4,18 @@ GitHub is a popular platform used by developers to collaborate on projects, trac
 
 ## git clone
 The git clone command is used to create a copy of a repository on your local machine. This is useful when you want to work on a project without affecting the main repository. To use git clone, simply enter the command followed by the URL of the repository you want to clone.
-\
+
 <code>
   git clone <repository URL>
 </code>
   
-  git add
+## git add
 The git add command is used to add files to the staging area before they are committed. This tells Git which changes to track and which files to ignore. To add a file to the staging area, use the following command:
 
-csharp
-Copy code
-git add <filename>
+
+```git add <filename>```
+  
+
 git commit
 The git commit command is used to save changes to the local repository. It's important to include a commit message that describes the changes you've made. To commit changes, use the following command:
 
