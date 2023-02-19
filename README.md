@@ -28,7 +28,7 @@ The git push command is used to upload local changes to the remote repository. T
 ```git push```
 
 
-```git pull```
+## git pull
 The git pull command is used to download changes from the remote repository to your local machine. This is useful when you want to update your local copy with the latest changes made by other developers. To pull changes from the remote repository, use the following command:
 
 ```git pull```
