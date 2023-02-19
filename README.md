@@ -1,5 +1,7 @@
 # GitHub 101: The Top 10 Commands Every Beginner Needs to Learn
 
+[!Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Oba_YVmDv2QOG8O45aAPHQ.png)
+
 GitHub is a popular platform used by developers to collaborate on projects, track changes, and manage version control. With so many commands available, it can be difficult to know where to start. Here are the top 10 GitHub commands every beginner needs to know.
 
 ## git clone
